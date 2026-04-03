@@ -1,5 +1,5 @@
 apiVersion: v2
-name: ALICE_WASTEMGMT
+name: alice-wastemgmt
 description: ALICE WasteMgmt
 type: application
 version: 0.1.0
